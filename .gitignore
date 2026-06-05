@@ -9,4 +9,8 @@ __pycache__/
 .pytest_cache/
 
 # Streamlit
-.streamlit/
+.streamlit/ 
+
+#files
+
+plan.md
